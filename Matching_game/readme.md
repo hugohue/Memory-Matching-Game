@@ -1,8 +1,4 @@
-IERG3080 Project Part 1
-1155079446	
-Hue Man Hong
-
-Topic 1:Matching Pair game
+Memory Matching Pair game
 
 Main idea:
 Firstly, I use 20 buttons to represent the buttons used for matching pair, instead of using images. 
